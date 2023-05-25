@@ -5,7 +5,7 @@ Websites
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 
 Math
-- [Essence of linear algebra]([https://www.essenceoflinearalgebra.com](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab))
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Mathematics for Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 - [Introduction to Machine Learning for Coders](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
@@ -46,5 +46,5 @@ GitHub
 
 Data Science
 - [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&index=1)
-- - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+- [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
 
