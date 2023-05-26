@@ -1,5 +1,7 @@
 # Links to courses, articles, websites, etc. in the field of AI, Machine Learning, Deep Learning, Data Science, etc.
 
+## English
+
 Websites
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#nlpnn)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
@@ -16,14 +18,17 @@ Machine Learning
 - [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 Deep Learning
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Stanford CS330: Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [UvA Deep Learning Tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [Generative Adversarial Networks (GANs)](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va) 
+- [TensorFlow 2.0 Beginner Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
 
 Image Processing
 - [Image processing with python](https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
 - [Introductory python tutorials for image processing](https://www.youtube.com/watch?v=7uE6hypji0o&list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
+- [Image Processing in Python](https://www.youtube.com/playlist?list=PLF_XXvcwv3kfalYHX6t3r8XIwteoPQgwX)
 
 Computer Vision
 - [YOLO Object Detection Models](https://www.youtube.com/playlist?list=PLkmvobsnE0GEfcliu9SXhtAQyyIiw9Kl0)
@@ -37,6 +42,7 @@ Natural Language Processing
 Pytorch Tutorial
 - [Learn PyTorch live coding sessions](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+- [PyTorch and Monai for AI Healthcare Imaging](https://www.youtube.com/watch?v=M3ZWfamWrBM&t=348s)
 
 GitHub
 - [Whisper is a general-purpose speech recognition model.](https://www.youtube.com/watch?v=ByyHwoEgF0Q&list=PL8IpyNZ21vUQw-TYaf2xF6SbUrqRKbGxh)
@@ -47,4 +53,45 @@ GitHub
 Data Science
 - [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&index=1)
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+
+## VietNamese
+Math
+- [Math for AI](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgGi7d2wbDiq1BcDAbQsxcZJ)
+- [Math for Machine Learning – Toán cho xử lý dữ liệu](https://www.youtube.com/playlist?list=PLjlWhmb6dBKhYRrXjaCgpfMRgwMbOQQmW)
+
+Machine Learning
+- [Machine Learning cơ bản](https://machinelearningcoban.com/)
+- [Đắm mình vào học sâu](https://d2l.aivivn.com/)
+- [Machine Learning Foundation and Practice – Máy học căn bản](https://www.youtube.com/playlist?list=PLjlWhmb6dBKgOl0D1o7e4SXO7AIVtxRk0)
+
+Deep Learning
+- [Đắm mình vào học sâu](https://d2l.aivivn.com/)
+- [Deeplearning cơ bản](https://www.youtube.com/playlist?list=PLVnyU2MngPda-pqImB_n5iNPdhnBngMOn)
+- [Deep Learning](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgExdvFtmy4OxIS_hEYIfVYW)
+- [Segmentation](https://www.youtube.com/playlist?list=PLVnyU2MngPdZ2DoMNC739JUIfBwFbXRfv)
+- [Semantic Segmentation with PyTorch](https://www.youtube.com/playlist?list=PL66dY0IbDdcPYOW6UgYVn1vDR5fPwKEku)
+- [Khoá học Active Learning](https://www.youtube.com/playlist?list=PL66dY0IbDdcNe45Ne82B-DZVb8pr_Xi2Z)
+
+Image Processing
+- [Xử lý ảnh số](https://www.youtube.com/playlist?list=PLANUYCovX5nq28GO9el_fny-MSQ0Y_aaV)
+- [Keras cơ bản](https://vncoder.vn/ai/keras-co-ban)
+
+Computer Vision
+- [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgEjf7lN_QxYW4-Yv0OlMFgA)
+
+Quantum Neural Network
+- [Từ lý thuyết lượng tử đến Quantum Neural Network (phần 1)](https://viblo.asia/p/tu-ly-thuyet-luong-tu-den-quantum-neural-network-phan-1-gioi-thieu-co-ban-ve-tinh-toan-luong-tu-07LKXRdplV4)
+- [Từ lý thuyết lượng tử đến Quantum Neural Network (phần 2)](https://viblo.asia/p/tu-ly-thuyet-luong-tu-den-quantum-neural-network-phan-2-simple-quantum-neural-network-WAyK8rqplxX)
+- [Thiết kế mạng Quantum Neural Network với Pytorch và Qiskit](https://viblo.asia/p/thiet-ke-mang-quantum-neural-network-voi-pytorch-va-qiskit-m2vJPwna4eK)
+
+Pytorch Tutorial
+- [PyTorch for Deep Learning](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgFkGZKa0uX2MQsVkdBAxhKV)
+- [Deeplearning cơ bản](https://www.youtube.com/playlist?list=PLVnyU2MngPda-pqImB_n5iNPdhnBngMOn)
+
+Data Science
+- [Khoa học dữ liệu - Khanh's blog](https://phamdinhkhanh.github.io/)
+- [Applied Data Science with Python](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgFT2EahyoR3VBCuxo6K7jHF)
+
+Graph Theory
+- [Lý Thuyết Đồ Thị | Graph Theory](https://www.youtube.com/playlist?list=PLux-_phi0Rz3Kx5SPqIRyGR1gDVb5DY1x)
 
