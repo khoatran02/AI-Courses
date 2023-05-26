@@ -1,4 +1,4 @@
-# Links to courses, articles, websites, etc. in the field of AI, Machine Learning, Deep Learning, Data Science, etc.
+This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Data Science and Math and more. Whether you are a beginner or an experienced professional, you are sure to find a course that is right for you.
 
 ## English
 
