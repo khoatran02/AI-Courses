@@ -38,6 +38,7 @@ Computer Vision
 Natural Language Processing
 - [Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
 - [Natural Language Processing with Deep Learning](https://www.example.com)
+- [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 Pytorch Tutorial
 - [Learn PyTorch live coding sessions](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
