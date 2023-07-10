@@ -5,6 +5,7 @@ This repository is a curated collection of links to various courses and resource
 Websites
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#nlpnn)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
+- [HELM Workbooks](https://nucinkis-lab.cc.ic.ac.uk/HELM/helm_workbooks.html?fbclid=IwAR3vJShafcxHMrj9ZDol-plJsvw2L1ArWrF5uBKB1dXjeFybdtzWxfYhd9M)
 
 Math
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -12,6 +13,9 @@ Math
 - [Introduction to Machine Learning for Coders](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
 - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
+Computer Science
+- [Computer Science]([https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw))
 
 Machine Learning
 - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
