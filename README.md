@@ -15,7 +15,7 @@ Math
 - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 Computer Science
-- [Computer Science]([https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw))
+- [Computer Science](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw)
 
 Machine Learning
 - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
