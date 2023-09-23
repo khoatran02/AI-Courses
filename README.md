@@ -2,10 +2,12 @@ This repository is a curated collection of links to various courses and resource
 
 ## English
 
-Websites
+Websites/ Books
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#nlpnn)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [HELM Workbooks](https://nucinkis-lab.cc.ic.ac.uk/HELM/helm_workbooks.html?fbclid=IwAR3vJShafcxHMrj9ZDol-plJsvw2L1ArWrF5uBKB1dXjeFybdtzWxfYhd9M)
+- [Machine Learning / Data Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md?fbclid=IwAR0wOKLGqkPEF8TixBlVxURGrJENKhSNiGkwqAg-1jTdXcSTSKiP4E6_bOM)
+- [Statistical Analysis with Excel For Dummies](https://drive.google.com/file/d/16KhRpMWUujOxuEAwCDEO5MnS_PaTKfkR/view?usp=sharing)
 
 Math
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -71,6 +73,7 @@ Machine Learning
 - [Machine Learning Foundation and Practice – Máy học căn bản](https://www.youtube.com/playlist?list=PLjlWhmb6dBKgOl0D1o7e4SXO7AIVtxRk0)
 
 Deep Learning
+- [Deep Learning cơ bản (Nguyễn Thanh Tuấn)](https://drive.google.com/file/d/16KYUBSGrXIaGe9ymK3u3d7uKmLf09O2x/view?usp=sharing)
 - [Đắm mình vào học sâu](https://d2l.aivivn.com/)
 - [Deeplearning cơ bản](https://www.youtube.com/playlist?list=PLVnyU2MngPda-pqImB_n5iNPdhnBngMOn)
 - [Deep Learning](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgExdvFtmy4OxIS_hEYIfVYW)
