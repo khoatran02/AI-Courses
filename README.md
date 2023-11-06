@@ -86,7 +86,11 @@ Image Processing
 - [Keras cơ bản](https://vncoder.vn/ai/keras-co-ban)
 
 Computer Vision
+- [Thị giác máy tính](https://www.youtube.com/playlist?list=PL50pDT4Q2doQYwSJ7GglOQrlx0tgle-P0)
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgEjf7lN_QxYW4-Yv0OlMFgA)
+
+Xử lý ngôn ngữ tự nhiên
+- [Xử lý ngôn ngữ tự nhiên](https://www.youtube.com/playlist?list=PLVIGO_mIB8ZLzCcPntjhQqIYqsniAZp9j)
 
 Quantum Neural Network
 - [Từ lý thuyết lượng tử đến Quantum Neural Network (phần 1)](https://viblo.asia/p/tu-ly-thuyet-luong-tu-den-quantum-neural-network-phan-1-gioi-thieu-co-ban-ve-tinh-toan-luong-tu-07LKXRdplV4)
