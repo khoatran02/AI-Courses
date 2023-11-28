@@ -69,6 +69,7 @@ Math
 
 Machine Learning
 - [Machine Learning cơ bản](https://machinelearningcoban.com/)
+- [Tự học Machine Learning](https://www.youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_)
 - [Đắm mình vào học sâu](https://d2l.aivivn.com/)
 - [Machine Learning Foundation and Practice – Máy học căn bản](https://www.youtube.com/playlist?list=PLjlWhmb6dBKgOl0D1o7e4SXO7AIVtxRk0)
 
