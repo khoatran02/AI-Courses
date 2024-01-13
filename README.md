@@ -73,6 +73,7 @@ Machine Learning
 - [Tự học Machine Learning](https://www.youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_)
 - [Đắm mình vào học sâu](https://d2l.aivivn.com/)
 - [Machine Learning Foundation and Practice – Máy học căn bản](https://www.youtube.com/playlist?list=PLjlWhmb6dBKgOl0D1o7e4SXO7AIVtxRk0)
+- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.youtube.com/playlist?list=PLSkaRRud3PU2g-CaqUAp233Vug00NBGGc)
 
 Deep Learning
 - [Deep Learning cơ bản (Nguyễn Thanh Tuấn)](https://drive.google.com/file/d/16KYUBSGrXIaGe9ymK3u3d7uKmLf09O2x/view?usp=sharing)
@@ -82,6 +83,8 @@ Deep Learning
 - [Segmentation](https://www.youtube.com/playlist?list=PLVnyU2MngPdZ2DoMNC739JUIfBwFbXRfv)
 - [Semantic Segmentation with PyTorch](https://www.youtube.com/playlist?list=PL66dY0IbDdcPYOW6UgYVn1vDR5fPwKEku)
 - [Khoá học Active Learning](https://www.youtube.com/playlist?list=PL66dY0IbDdcNe45Ne82B-DZVb8pr_Xi2Z)
+- [Hướng dẫn trọn bộ: CS231n - Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLSkaRRud3PU1zwweoUe4fkWb8HnF-2hVB)
+- [Stanford CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLSkaRRud3PU1-c51Y98OxdvbP1jTxZR3r)
 
 Image Processing
 - [Xử lý ảnh số](https://www.youtube.com/playlist?list=PLANUYCovX5nq28GO9el_fny-MSQ0Y_aaV)
