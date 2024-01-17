@@ -42,11 +42,13 @@ Computer Vision
 - [YOLO Object Detection Models](https://www.youtube.com/playlist?list=PLkmvobsnE0GEfcliu9SXhtAQyyIiw9Kl0)
 - [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [Computer Vision — Andreas Geiger](https://www.youtube.com/watch?v=YW1cIaOBkI8&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
+- [OpenCV Python Tutorial and Projects](https://www.youtube.com/playlist?list=PLkmvobsnE0GEo-D7DLnrYS1K4OemycX6k)
 
 Natural Language Processing
 - [Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
 - [Natural Language Processing with Deep Learning](https://www.example.com)
 - [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- 
 
 Pytorch Tutorial
 - [Learn PyTorch live coding sessions](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -62,6 +64,11 @@ GitHub
 Data Science
 - [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&index=1)
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+
+Quantum Computinng
+- [Ph/CS 219A Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
+- [IBM Quantum Learning](https://learning.quantum.ibm.com/)
+- [Introduction to Quantum Computing and Quantum Hardware](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 
 ## VietNamese
 Math
