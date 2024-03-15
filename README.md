@@ -32,7 +32,7 @@ Deep Learning
 - [TensorFlow 2.0 Beginner Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
 - [Deep Learning Do It Yourself](https://dataflowr.github.io/website/?fbclid=IwAR2Qoa0JS0EYQrwpkEDkvZH_JLksMn3Bt98BJWf-clUMYuwaR7wtDOLDeEM#deep_learning_do_it_yourself)
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
-- [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+- [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 
 Image Processing
 - [Image processing with python](https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
