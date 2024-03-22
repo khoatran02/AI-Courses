@@ -19,6 +19,12 @@ Math
 Computer Science
 - [Computer Science](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw)
 
+Data Science
+- [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+- [Descriptive statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
+- [Python for Data Analysis](https://www.youtube.com/playlist?list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc)
+- [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&index=1)
+
 Machine Learning
 - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 - [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -62,10 +68,6 @@ GitHub
 - [Sophia Optimizer](https://github.com/kyegomez/Sophia/tree/main)
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling?fbclid=IwAR3F_w-ea4btYEBnmUSXLRpc_51kmnvQ1--b-Vhlkk36KssWUwaR-kYxHYk)
 
-Data Science
-- [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5&index=1)
-- [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
-
 Quantum Computinng
 - [Ph/CS 219A Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 - [IBM Quantum Learning](https://learning.quantum.ibm.com/)
@@ -76,6 +78,14 @@ Math
 - [Math for AI](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgGi7d2wbDiq1BcDAbQsxcZJ)
 - [Math for Machine Learning – Toán cho xử lý dữ liệu](https://www.youtube.com/playlist?list=PLjlWhmb6dBKhYRrXjaCgpfMRgwMbOQQmW)
 
+Data Science
+- [Khoa học dữ liệu - Khanh's blog](https://phamdinhkhanh.github.io/)
+- [Applied Data Science with Python](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgFT2EahyoR3VBCuxo6K7jHF)
+
+Computer Vision
+- [Thị giác máy tính](https://www.youtube.com/playlist?list=PL50pDT4Q2doQYwSJ7GglOQrlx0tgle-P0)
+- [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgEjf7lN_QxYW4-Yv0OlMFgA)
+  
 Machine Learning
 - [Machine Learning cơ bản](https://machinelearningcoban.com/)
 - [Tự học Machine Learning](https://www.youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_)
@@ -98,10 +108,6 @@ Image Processing
 - [Xử lý ảnh số](https://www.youtube.com/playlist?list=PLANUYCovX5nq28GO9el_fny-MSQ0Y_aaV)
 - [Keras cơ bản](https://vncoder.vn/ai/keras-co-ban)
 
-Computer Vision
-- [Thị giác máy tính](https://www.youtube.com/playlist?list=PL50pDT4Q2doQYwSJ7GglOQrlx0tgle-P0)
-- [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgEjf7lN_QxYW4-Yv0OlMFgA)
-
 Xử lý ngôn ngữ tự nhiên
 - [Xử lý ngôn ngữ tự nhiên](https://www.youtube.com/playlist?list=PLVIGO_mIB8ZLzCcPntjhQqIYqsniAZp9j)
 
@@ -113,10 +119,6 @@ Quantum Neural Network
 Pytorch Tutorial
 - [PyTorch for Deep Learning](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgFkGZKa0uX2MQsVkdBAxhKV)
 - [Deeplearning cơ bản](https://www.youtube.com/playlist?list=PLVnyU2MngPda-pqImB_n5iNPdhnBngMOn)
-
-Data Science
-- [Khoa học dữ liệu - Khanh's blog](https://phamdinhkhanh.github.io/)
-- [Applied Data Science with Python](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgFT2EahyoR3VBCuxo6K7jHF)
 
 Graph Theory
 - [Lý Thuyết Đồ Thị | Graph Theory](https://www.youtube.com/playlist?list=PLux-_phi0Rz3Kx5SPqIRyGR1gDVb5DY1x)
