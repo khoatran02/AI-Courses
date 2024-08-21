@@ -10,6 +10,7 @@ Websites/ Books
 - [Statistical Analysis with Excel For Dummies](https://drive.google.com/file/d/16KhRpMWUujOxuEAwCDEO5MnS_PaTKfkR/view?usp=sharing)
 
 Math
+- [Probability Bites](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BXkeKW4J_2WQBlYhKs_k-pj)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Mathematics for Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 - [Introduction to Machine Learning for Coders](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
@@ -41,11 +42,17 @@ Deep Learning
 - [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 
 Image Processing
+- [Intro to Digital Image Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
 - [Image processing with python](https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
 - [Introductory python tutorials for image processing](https://www.youtube.com/watch?v=7uE6hypji0o&list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG)
 - [Image Processing in Python](https://www.youtube.com/playlist?list=PLF_XXvcwv3kfalYHX6t3r8XIwteoPQgwX)
 
+Signal Processing
+- [Digital Signal Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+
 Computer Vision
+- [Computational Creativity 2023](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BX-uwS15xlbi7KUcgKUmWNL)
+- [Computer Vision for Visual Effects](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 - [YOLO Object Detection Models](https://www.youtube.com/playlist?list=PLkmvobsnE0GEfcliu9SXhtAQyyIiw9Kl0)
 - [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [Computer Vision — Andreas Geiger](https://www.youtube.com/watch?v=YW1cIaOBkI8&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
@@ -68,12 +75,12 @@ GitHub
 - [Sophia Optimizer](https://github.com/kyegomez/Sophia/tree/main)
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling?fbclid=IwAR3F_w-ea4btYEBnmUSXLRpc_51kmnvQ1--b-Vhlkk36KssWUwaR-kYxHYk)
 
-Quantum Computinng
+Quantum Computing
 - [Ph/CS 219A Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 - [IBM Quantum Learning](https://learning.quantum.ibm.com/)
 - [Introduction to Quantum Computing and Quantum Hardware](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 
-## VietNamese
+## Vietnamese
 Math
 - [Math for AI](https://www.youtube.com/playlist?list=PLaKt1Gc2UlgGi7d2wbDiq1BcDAbQsxcZJ)
 - [Math for Machine Learning – Toán cho xử lý dữ liệu](https://www.youtube.com/playlist?list=PLjlWhmb6dBKhYRrXjaCgpfMRgwMbOQQmW)
