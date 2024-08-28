@@ -19,6 +19,7 @@ Math
 
 Computer Science
 - [Computer Science](https://github.com/ossu/computer-science?fbclid=IwAR1cj9BF1MhuyatQ3eyLneE3NkuTnCqHkaGqNWvnA71QyrmVRilHg9nrUXw)
+- [Stanford EE274: Data Compression I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 
 Data Science
 - [Statistics Course for Beginners: Introduction to Statistics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
@@ -41,7 +42,6 @@ Deep Learning
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 - [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
-- [Stanford EE274: Data Compression I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 
 Image Processing
 - [Intro to Digital Image Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
