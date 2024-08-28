@@ -40,6 +40,8 @@ Deep Learning
 - [Deep Learning Do It Yourself](https://dataflowr.github.io/website/?fbclid=IwAR2Qoa0JS0EYQrwpkEDkvZH_JLksMn3Bt98BJWf-clUMYuwaR7wtDOLDeEM#deep_learning_do_it_yourself)
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 - [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
+- [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- [Stanford EE274: Data Compression I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 
 Image Processing
 - [Intro to Digital Image Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
