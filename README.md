@@ -59,6 +59,7 @@ Computer Vision
 - [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [Computer Vision — Andreas Geiger](https://www.youtube.com/watch?v=YW1cIaOBkI8&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
 - [OpenCV Python Tutorial and Projects](https://www.youtube.com/playlist?list=PLkmvobsnE0GEo-D7DLnrYS1K4OemycX6k)
+- [Lecture BioImage Analysis 2020](https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
 
 Natural Language Processing
 - [Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
