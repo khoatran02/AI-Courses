@@ -78,6 +78,7 @@ GitHub
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection?fbclid=IwAR2Z3uvKIG8loQ2PZLo98NCLmgnNAUyRKF2dI8Y4PLh49P_msEZ5i3DnH9M)
 - [Sophia Optimizer](https://github.com/kyegomez/Sophia/tree/main)
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling?fbclid=IwAR3F_w-ea4btYEBnmUSXLRpc_51kmnvQ1--b-Vhlkk36KssWUwaR-kYxHYk)
+- [RAG Zero to Hero Guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
 
 Quantum Computing
 - [Ph/CS 219A Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
